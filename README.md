@@ -1,8 +1,1 @@
-# Who am i?
-I am a guy learning at school in 8th class. Learning ML, backend, computer science and partially devOps.<br>
-<br>
-
-# My programming languages
-I know: python, C++, Rust and JS. 
-As a languages, i know Russian and English. Learning German and Japanese.
-
+All you have to know: Rust is a shit and i really love it.
